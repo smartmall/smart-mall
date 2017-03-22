@@ -946,6 +946,16 @@
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-facebook-4.0.0/example" />
       </SOURCES>
     </library>
+    <library name="omniauth-linkedin (v0.2.0, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-linkedin-0.2.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-linkedin-0.2.0/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-linkedin-0.2.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-linkedin-0.2.0/example" />
+      </SOURCES>
+    </library>
     <library name="omniauth-oauth (v1.1.0, ruby-2.2.6-p396) [gem]">
       <CLASSES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-oauth-1.1.0/lib" />
