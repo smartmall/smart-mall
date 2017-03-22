@@ -224,6 +224,18 @@
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/activesupport-5.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="addressable (v2.5.0, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/addressable-2.5.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/addressable-2.5.0/data" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/addressable-2.5.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/addressable-2.5.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/addressable-2.5.0/data" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/addressable-2.5.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="arel (v6.0.3, ruby-2.2.6-p396) [gem]">
       <CLASSES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/arel-6.0.3/lib" />
@@ -500,6 +512,14 @@
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/execjs-2.7.0/lib" />
       </SOURCES>
     </library>
+    <library name="faraday (v0.11.0, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/faraday-0.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/faraday-0.11.0/lib" />
+      </SOURCES>
+    </library>
     <library name="faye-websocket (v0.10.6, ruby-2.2.6-p396) [gem]">
       <CLASSES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/faye-websocket-0.10.6/lib" />
@@ -666,6 +686,34 @@
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/jquery-rails-4.2.2/vendor" />
       </SOURCES>
     </library>
+    <library name="jquery-rails (v4.3.1, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/jquery-rails-4.3.1/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/jquery-rails-4.3.1/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/jquery-rails-4.3.1/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/jquery-rails-4.3.1/vendor" />
+      </SOURCES>
+    </library>
+    <library name="jwt (v1.5.6, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/jwt-1.5.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/jwt-1.5.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="koala (v1.10.1, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/koala-1.10.1/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/koala-1.10.1/autotest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/koala-1.10.1/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/koala-1.10.1/autotest" />
+      </SOURCES>
+    </library>
     <library name="loofah (v2.0.3, ruby-2.2.6-p396) [gem]">
       <CLASSES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/loofah-2.0.3/lib" />
@@ -756,6 +804,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/multi_json-1.12.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_xml (v0.6.0, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/multi_xml-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/multi_xml-0.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="nio4r (v1.2.1, ruby-2.2.6-p396) [gem]">
@@ -854,6 +918,14 @@
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/oauth-0.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="oauth2 (v1.3.1, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/oauth2-1.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/oauth2-1.3.1/lib" />
+      </SOURCES>
+    </library>
     <library name="omniauth (v1.6.1, ruby-2.2.6-p396) [gem]">
       <CLASSES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-1.6.1/lib" />
@@ -864,12 +936,30 @@
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-1.6.1/.github" />
       </SOURCES>
     </library>
+    <library name="omniauth-facebook (v4.0.0, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-facebook-4.0.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-facebook-4.0.0/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-facebook-4.0.0/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-facebook-4.0.0/example" />
+      </SOURCES>
+    </library>
     <library name="omniauth-oauth (v1.1.0, ruby-2.2.6-p396) [gem]">
       <CLASSES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-oauth-1.1.0/lib" />
       </CLASSES>
       <SOURCES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-oauth-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="omniauth-oauth2 (v1.4.0, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-oauth2-1.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/omniauth-oauth2-1.4.0/lib" />
       </SOURCES>
     </library>
     <library name="omniauth-twitter (v1.4.0, ruby-2.2.6-p396) [gem]">
@@ -924,6 +1014,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/power_assert-0.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="public_suffix (v2.0.5, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/public_suffix-2.0.5/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/public_suffix-2.0.5/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/public_suffix-2.0.5/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/public_suffix-2.0.5/data" />
       </SOURCES>
     </library>
     <library name="puma (v3.7.0, ruby-2.2.6-p396) [gem]">
