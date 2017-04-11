@@ -476,6 +476,18 @@
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/cocaine-0.5.8/lib" />
       </SOURCES>
     </library>
+    <library name="cocoon (v1.2.9, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/cocoon-1.2.9/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/cocoon-1.2.9/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/cocoon-1.2.9/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/cocoon-1.2.9/app" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/cocoon-1.2.9/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/cocoon-1.2.9/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="coffee-rails (v4.2.1, ruby-2.2.6-p396) [gem]">
       <CLASSES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/coffee-rails-4.2.1/lib" />
@@ -2032,6 +2044,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/uglifier-3.1.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v3.2.0, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/uglifier-3.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/uglifier-3.2.0/lib" />
       </SOURCES>
     </library>
     <library name="warden (v1.2.7, ruby-2.2.6-p396) [gem]">
