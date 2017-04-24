@@ -326,6 +326,16 @@
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.7.7.1/vendor" />
       </SOURCES>
     </library>
+    <library name="autoprefixer-rails (v6.7.7.2, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.7.7.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.7.7.2/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.7.7.2/lib" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/autoprefixer-rails-6.7.7.2/vendor" />
+      </SOURCES>
+    </library>
     <library name="awesome_nested_set (v3.1.1, ruby-2.2.6-p396) [gem]">
       <CLASSES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/awesome_nested_set-3.1.1/lib" />
@@ -746,6 +756,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/globalid-0.3.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="globalid (v0.4.0, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/globalid-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/globalid-0.4.0/lib" />
       </SOURCES>
     </library>
     <library name="hashie (v3.5.5, ruby-2.2.6-p396) [gem]">
