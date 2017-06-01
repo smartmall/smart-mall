@@ -366,6 +366,18 @@
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/bcrypt-3.1.11-x86-mingw32/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.11@23b051, ruby-2.2.6-p396) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.11" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/bundler/gems/bcrypt-ruby-23b0517e20e7/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/bundler/gems/bcrypt-ruby-23b0517e20e7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/bcrypt/3.1.11" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/bundler/gems/bcrypt-ruby-23b0517e20e7/ext" />
+        <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/bundler/gems/bcrypt-ruby-23b0517e20e7/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt-ruby (v3.1.5, ruby-2.2.6-p396) [gem]">
       <CLASSES>
         <root url="file://C:/RailsInstaller/Ruby2.2.0/lib/ruby/gems/2.2.0/gems/bcrypt-ruby-3.1.5-x86-mingw32/lib" />
